@@ -2,7 +2,7 @@
 <p>Classification of Fake News using NLP and Machine Learning</p>
 <ol>
   <li>Using Bag of Words</li>
-  <li>Using LSTM: Keras and Tensorlfow</li>
+  <li>Using LSTM: Keras and Tensorflow</li>
 </ol>
 
 
