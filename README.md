@@ -7,4 +7,4 @@
 
 
 <p>Dataset - Fake News Kaggle </p>
-link - https://www.kaggle.com/competitions/fake-news/data
+link - https://www.kaggle.com/competitions/fake-news/data 
